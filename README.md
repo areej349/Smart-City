@@ -7,12 +7,12 @@ Cargo ship operations face challenges such as ships getting lost, losing connect
 The objective of this project is to develop an integrated IoT-based monitoring system using Cumulocity IoT dashboards to enhance the safety, efficiency, and reliability of cargo ship operations. This system will provide real-time location tracking, , fuel level monitoring, schedule adherence alerts, weather condition updates, and emergency alerts to prevent ships from getting lost, running out of fuel, falling behind schedule, or encountering dangerous situations. By implementing this solution, ship operators can make informed decisions to improve operational performance and mitigate risks.
 
 ***Key Features
-Load Optimization
-Real-Time Tracking
-Automated Alerts
-Fuel level
-Arrive estimation
-Environmental Monitoring
+-Load Optimization
+-Real-Time Tracking
+-Automated Alerts
+-Fuel level
+-Arrive estimation
+-Environmental Monitoring
 
 Dashboard:
 
@@ -25,3 +25,4 @@ Dashboard:
 ![image](https://github.com/user-attachments/assets/ee9aa523-e0b4-430b-9063-9789b736d8f0)
 
 ![image](https://github.com/user-attachments/assets/04cb0da7-68d9-433b-8910-b7edaa9b5432)
+
