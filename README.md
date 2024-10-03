@@ -26,3 +26,5 @@ The objective of this project is to develop an integrated IoT-based monitoring s
 
 ![image](https://github.com/user-attachments/assets/04cb0da7-68d9-433b-8910-b7edaa9b5432)
 
+### Presentation File:
+[Moaan.pdf](https://github.com/user-attachments/files/17239185/Moaan.pdf)
